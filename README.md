@@ -1,4 +1,6 @@
-# Depracated new repo :
+# Depracated 
+
+# New repo :
 
 https://github.com/hshsl-training/library-carpentry-2021-11-03-04-NNLM-Region1-online/tree/gh-pages
 
