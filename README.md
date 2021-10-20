@@ -1,3 +1,7 @@
+# Depracated new repo :
+
+https://github.com/hshsl-training/library-carpentry-2021-11-03-04-NNLM-Region1-online/tree/gh-pages
+
 [![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
 
 # The Carpentries Workshop Template
